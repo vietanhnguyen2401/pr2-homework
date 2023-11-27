@@ -1,0 +1,1 @@
+OOP provides a clear modular structure for programs which makes it good for defining abstract datatypes where implementation details are hidden and the unit has a clearly defined interface. OOP makes it easy to maintain and modify existing code as new objects can be created with small differences to existing ones.
